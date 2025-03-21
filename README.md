@@ -1,7 +1,7 @@
 # numerical-investigation
 Investigating efficient methods of numerical computation
 
-
+### Logarithms (see [logarithm.ipynb])
 - Series approximation for Log(1 + x)
 - Newton-Raphson method for Exp(t) - x
 - Simpson rule integration for 1/t
